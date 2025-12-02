@@ -20,7 +20,12 @@ class PayPalService:
             "client_id": env_config.PAYPAL_CLIENT_ID,
             "client_secret": env_config.PAYPAL_CLIENT_SECRET
         })
-        self.ngrok_url = env_config.NGROK_URL
+        # Don't cache ngrok_url - always get it fresh from env_config
+        
+    @property
+    def ngrok_url(self):
+        """Always get the current NGROK_URL from env_config"""
+        return env_config.NGROK_URL
         
     def _get_plan_details(self, plan_type: str, sports: List[str] = None) -> Dict:
         """Get plan price and description based on plan type and sports"""

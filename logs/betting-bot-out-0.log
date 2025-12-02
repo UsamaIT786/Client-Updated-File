@@ -1,0 +1,1041 @@
+2025-07-02T00:22:23: 
+2025-07-02T00:22:23:     ╔════════════════════════════════════════════╗
+2025-07-02T00:22:23:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T00:22:23:     ║        (Simple Mode)                       ║
+2025-07-02T00:22:23:     ║                                            ║
+2025-07-02T00:22:23:     ║        Press Ctrl+C to stop                ║
+2025-07-02T00:22:23:     ╚════════════════════════════════════════════╝
+2025-07-02T00:22:23:     
+2025-07-02T00:22:32: Database tables created successfully
+2025-07-02T00:22:40: Database tables created successfully
+2025-07-02T00:29:27: 
+2025-07-02T00:29:27:     ╔════════════════════════════════════════════╗
+2025-07-02T00:29:27:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T00:29:27:     ║        (Simple Mode)                       ║
+2025-07-02T00:29:27:     ║                                            ║
+2025-07-02T00:29:27:     ║        Press Ctrl+C to stop                ║
+2025-07-02T00:29:27:     ╚════════════════════════════════════════════╝
+2025-07-02T00:29:27:     
+2025-07-02T00:29:32: Database tables created successfully
+2025-07-02T00:29:40: Database tables created successfully
+2025-07-02T00:42:06: 
+2025-07-02T00:42:06:     ╔════════════════════════════════════════════╗
+2025-07-02T00:42:06:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T00:42:06:     ║        (Simple Mode)                       ║
+2025-07-02T00:42:06:     ║                                            ║
+2025-07-02T00:42:06:     ║        Press Ctrl+C to stop                ║
+2025-07-02T00:42:06:     ╚════════════════════════════════════════════╝
+2025-07-02T00:42:06:     
+2025-07-02T00:42:12: Database tables created successfully
+2025-07-02T00:42:20: Database tables created successfully
+2025-07-02T11:30:58: 
+2025-07-02T11:30:58:     ╔════════════════════════════════════════════╗
+2025-07-02T11:30:58:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T11:30:58:     ║        (Simple Mode)                       ║
+2025-07-02T11:30:58:     ║                                            ║
+2025-07-02T11:30:58:     ║        Press Ctrl+C to stop                ║
+2025-07-02T11:30:58:     ╚════════════════════════════════════════════╝
+2025-07-02T11:30:58:     
+2025-07-02T11:31:04: Database tables created successfully
+2025-07-02T11:31:11: Database tables created successfully
+2025-07-02T11:43:13: 
+2025-07-02T11:43:13:     ╔════════════════════════════════════════════╗
+2025-07-02T11:43:13:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T11:43:13:     ║        (Simple Mode)                       ║
+2025-07-02T11:43:13:     ║                                            ║
+2025-07-02T11:43:13:     ║        Press Ctrl+C to stop                ║
+2025-07-02T11:43:13:     ╚════════════════════════════════════════════╝
+2025-07-02T11:43:13:     
+2025-07-02T11:43:19: Database tables created successfully
+2025-07-02T11:43:26: Database tables created successfully
+2025-07-02T12:34:23: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-07-02T14:46:47: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-07-02T14:50:37: 
+2025-07-02T14:50:37:     ╔════════════════════════════════════════════╗
+2025-07-02T14:50:37:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T14:50:37:     ║        (Simple Mode)                       ║
+2025-07-02T14:50:37:     ║                                            ║
+2025-07-02T14:50:37:     ║        Press Ctrl+C to stop                ║
+2025-07-02T14:50:37:     ╚════════════════════════════════════════════╝
+2025-07-02T14:50:37:     
+2025-07-02T14:50:37: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-02T14:50:37: 
+2025-07-02T14:50:37: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-02T14:50:42: 
+2025-07-02T14:50:42:     ╔════════════════════════════════════════════╗
+2025-07-02T14:50:42:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T14:50:42:     ║        (Simple Mode)                       ║
+2025-07-02T14:50:42:     ║                                            ║
+2025-07-02T14:50:42:     ║        Press Ctrl+C to stop                ║
+2025-07-02T14:50:42:     ╚════════════════════════════════════════════╝
+2025-07-02T14:50:42:     
+2025-07-02T14:50:47: Database tables created successfully
+2025-07-02T14:50:55: Database tables created successfully
+2025-07-02T20:53:16: 
+2025-07-02T20:53:16:     ╔════════════════════════════════════════════╗
+2025-07-02T20:53:16:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T20:53:16:     ║        (Simple Mode)                       ║
+2025-07-02T20:53:16:     ║                                            ║
+2025-07-02T20:53:16:     ║        Press Ctrl+C to stop                ║
+2025-07-02T20:53:16:     ╚════════════════════════════════════════════╝
+2025-07-02T20:53:16:     
+2025-07-02T20:53:48: Database tables created successfully
+2025-07-02T20:54:09: Database tables created successfully
+2025-07-02T22:01:35: 
+2025-07-02T22:01:35:     ╔════════════════════════════════════════════╗
+2025-07-02T22:01:35:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:01:35:     ║        (Simple Mode)                       ║
+2025-07-02T22:01:35:     ║                                            ║
+2025-07-02T22:01:35:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:01:35:     ╚════════════════════════════════════════════╝
+2025-07-02T22:01:35:     
+2025-07-02T22:01:40: Database tables created successfully
+2025-07-02T22:01:48: Database tables created successfully
+2025-07-02T22:01:52: 
+2025-07-02T22:01:52:     ╔════════════════════════════════════════════╗
+2025-07-02T22:01:52:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:01:52:     ║        (Simple Mode)                       ║
+2025-07-02T22:01:52:     ║                                            ║
+2025-07-02T22:01:52:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:01:52:     ╚════════════════════════════════════════════╝
+2025-07-02T22:01:52:     
+2025-07-02T22:01:59: Database tables created successfully
+2025-07-02T22:02:06: Database tables created successfully
+2025-07-02T22:02:11: 
+2025-07-02T22:02:11:     ╔════════════════════════════════════════════╗
+2025-07-02T22:02:11:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:02:11:     ║        (Simple Mode)                       ║
+2025-07-02T22:02:11:     ║                                            ║
+2025-07-02T22:02:11:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:02:11:     ╚════════════════════════════════════════════╝
+2025-07-02T22:02:11:     
+2025-07-02T22:02:16: Database tables created successfully
+2025-07-02T22:02:24: Database tables created successfully
+2025-07-02T22:02:28: 
+2025-07-02T22:02:28:     ╔════════════════════════════════════════════╗
+2025-07-02T22:02:28:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:02:28:     ║        (Simple Mode)                       ║
+2025-07-02T22:02:28:     ║                                            ║
+2025-07-02T22:02:28:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:02:28:     ╚════════════════════════════════════════════╝
+2025-07-02T22:02:28:     
+2025-07-02T22:02:36: Database tables created successfully
+2025-07-02T22:02:43: Database tables created successfully
+2025-07-02T22:02:48: 
+2025-07-02T22:02:48:     ╔════════════════════════════════════════════╗
+2025-07-02T22:02:48:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:02:48:     ║        (Simple Mode)                       ║
+2025-07-02T22:02:48:     ║                                            ║
+2025-07-02T22:02:48:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:02:48:     ╚════════════════════════════════════════════╝
+2025-07-02T22:02:48:     
+2025-07-02T22:02:53: Database tables created successfully
+2025-07-02T22:03:01: Database tables created successfully
+2025-07-02T22:03:05: 
+2025-07-02T22:03:05:     ╔════════════════════════════════════════════╗
+2025-07-02T22:03:05:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:03:05:     ║        (Simple Mode)                       ║
+2025-07-02T22:03:05:     ║                                            ║
+2025-07-02T22:03:05:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:03:05:     ╚════════════════════════════════════════════╝
+2025-07-02T22:03:05:     
+2025-07-02T22:03:11: Database tables created successfully
+2025-07-02T22:03:19: Database tables created successfully
+2025-07-02T22:03:23: 
+2025-07-02T22:03:23:     ╔════════════════════════════════════════════╗
+2025-07-02T22:03:23:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:03:23:     ║        (Simple Mode)                       ║
+2025-07-02T22:03:23:     ║                                            ║
+2025-07-02T22:03:23:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:03:23:     ╚════════════════════════════════════════════╝
+2025-07-02T22:03:23:     
+2025-07-02T22:03:28: Database tables created successfully
+2025-07-02T22:03:36: Database tables created successfully
+2025-07-02T22:03:41: 
+2025-07-02T22:03:41:     ╔════════════════════════════════════════════╗
+2025-07-02T22:03:41:     ║      Fast Betting Analytics Bot            ║
+2025-07-02T22:03:41:     ║        (Simple Mode)                       ║
+2025-07-02T22:03:41:     ║                                            ║
+2025-07-02T22:03:41:     ║        Press Ctrl+C to stop                ║
+2025-07-02T22:03:41:     ╚════════════════════════════════════════════╝
+2025-07-02T22:03:41:     
+2025-07-02T22:03:47: Database tables created successfully
+2025-07-02T22:03:54: Database tables created successfully
+2025-07-02T22:09:32: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:09:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:09:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:09:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:09:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:09:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:09:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:10:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:11:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:12:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:13:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:09: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:14:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:15:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:16:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:17:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:18:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:19:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:20:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:21:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:22:53: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:23:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:08: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:37: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:24:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:25:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:08: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:26:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:37: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:27:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:28:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:08: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:09: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:23: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:24: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:36: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:37: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:29:52: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:33:48: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-07-02T22:40:58: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:00: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:41:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:42:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:43:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:44:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:45:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:46:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:37: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:47:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:48:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:49:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:50:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:51:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:52:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:53:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:06: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:07: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:22: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:54:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:03: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:55:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:21: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:49: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:56:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:05: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:18: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:19: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:20: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:33: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:34: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:35: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:48: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:50: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=18&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:57:51: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=78&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-02T22:58:04: Error fetching featured games: 429 Client Error: Too Many Requests for url: http://api.b365api.com/v1/bet365/upcoming?sport_id=13&token=215845-ME7THuixJ1hOxE&day=20250702
+2025-07-03T09:18:57: 
+2025-07-03T09:18:57:     ╔════════════════════════════════════════════╗
+2025-07-03T09:18:57:     ║      Fast Betting Analytics Bot            ║
+2025-07-03T09:18:57:     ║        (Simple Mode)                       ║
+2025-07-03T09:18:57:     ║                                            ║
+2025-07-03T09:18:57:     ║        Press Ctrl+C to stop                ║
+2025-07-03T09:18:57:     ╚════════════════════════════════════════════╝
+2025-07-03T09:18:57:     
+2025-07-03T09:18:57: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-03T09:18:57: 
+2025-07-03T09:18:57: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-03T09:19:01: 
+2025-07-03T09:19:01:     ╔════════════════════════════════════════════╗
+2025-07-03T09:19:01:     ║      Fast Betting Analytics Bot            ║
+2025-07-03T09:19:01:     ║        (Simple Mode)                       ║
+2025-07-03T09:19:01:     ║                                            ║
+2025-07-03T09:19:01:     ║        Press Ctrl+C to stop                ║
+2025-07-03T09:19:01:     ╚════════════════════════════════════════════╝
+2025-07-03T09:19:01:     
+2025-07-03T09:19:01: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-03T09:19:01: 
+2025-07-03T09:19:01: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-03T09:19:06: 
+2025-07-03T09:19:06:     ╔════════════════════════════════════════════╗
+2025-07-03T09:19:06:     ║      Fast Betting Analytics Bot            ║
+2025-07-03T09:19:06:     ║        (Simple Mode)                       ║
+2025-07-03T09:19:06:     ║                                            ║
+2025-07-03T09:19:06:     ║        Press Ctrl+C to stop                ║
+2025-07-03T09:19:06:     ╚════════════════════════════════════════════╝
+2025-07-03T09:19:06:     
+2025-07-03T09:19:06: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-03T09:19:06: 
+2025-07-03T09:19:06: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-03T09:19:10: 
+2025-07-03T09:19:10:     ╔════════════════════════════════════════════╗
+2025-07-03T09:19:10:     ║      Fast Betting Analytics Bot            ║
+2025-07-03T09:19:10:     ║        (Simple Mode)                       ║
+2025-07-03T09:19:10:     ║                                            ║
+2025-07-03T09:19:10:     ║        Press Ctrl+C to stop                ║
+2025-07-03T09:19:10:     ╚════════════════════════════════════════════╝
+2025-07-03T09:19:10:     
+2025-07-03T09:19:10: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-03T09:19:10: 
+2025-07-03T09:19:10: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-03T09:19:15: 
+2025-07-03T09:19:15:     ╔════════════════════════════════════════════╗
+2025-07-03T09:19:15:     ║      Fast Betting Analytics Bot            ║
+2025-07-03T09:19:15:     ║        (Simple Mode)                       ║
+2025-07-03T09:19:15:     ║                                            ║
+2025-07-03T09:19:15:     ║        Press Ctrl+C to stop                ║
+2025-07-03T09:19:15:     ╚════════════════════════════════════════════╝
+2025-07-03T09:19:15:     
+2025-07-03T09:19:15: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-03T09:19:15: 
+2025-07-03T09:19:15: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-03T09:19:19: 
+2025-07-03T09:19:19:     ╔════════════════════════════════════════════╗
+2025-07-03T09:19:19:     ║      Fast Betting Analytics Bot            ║
+2025-07-03T09:19:19:     ║        (Simple Mode)                       ║
+2025-07-03T09:19:19:     ║                                            ║
+2025-07-03T09:19:19:     ║        Press Ctrl+C to stop                ║
+2025-07-03T09:19:19:     ╚════════════════════════════════════════════╝
+2025-07-03T09:19:19:     
+2025-07-03T09:19:34: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-03T09:19:34: 
+2025-07-03T09:19:34: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-03T09:19:39: 
+2025-07-03T09:19:39:     ╔════════════════════════════════════════════╗
+2025-07-03T09:19:39:     ║      Fast Betting Analytics Bot            ║
+2025-07-03T09:19:39:     ║        (Simple Mode)                       ║
+2025-07-03T09:19:39:     ║                                            ║
+2025-07-03T09:19:39:     ║        Press Ctrl+C to stop                ║
+2025-07-03T09:19:39:     ╚════════════════════════════════════════════╝
+2025-07-03T09:19:39:     
+2025-07-03T09:19:45: Database tables created successfully
+2025-07-03T09:19:53: Database tables created successfully
+2025-07-03T10:09:14: Error fetching featured games: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-05T10:47:34: Error fetching generic odds: ('Connection aborted.', OSError(101, 'Network is unreachable'))
+2025-07-05T10:47:55: Error fetching generic odds: HTTPConnectionPool(host='api.b365api.com', port=80): Max retries exceeded with url: /v3/bet365/prematch?token=215845-ME7THuixJ1hOxE&FI=177292008 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x77da2811cc50>: Failed to resolve 'api.b365api.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-07-05T10:48:00: Error fetching generic odds: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92My9iZXQzNjUvcHJlbWF0Y2g_dG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJkZJPTE3NzE2MTY3NA~~
+2025-07-05T10:48:00: Error fetching generic odds: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92My9iZXQzNjUvcHJlbWF0Y2g_dG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJkZJPTE3NzI5MTYxMQ~~
+2025-07-05T10:48:00: Error fetching generic odds: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92My9iZXQzNjUvcHJlbWF0Y2g_dG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJkZJPTE3NzI5MTc0NQ~~
+2025-07-05T10:48:00: Error fetching generic odds: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92My9iZXQzNjUvcHJlbWF0Y2g_dG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJkZJPTE3NzI5MTg3OA~~
+2025-07-05T10:48:01: Error fetching generic odds: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92My9iZXQzNjUvcHJlbWF0Y2g_dG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJkZJPTE3NzI5MjAxMQ~~
+2025-07-05T10:48:01: Error fetching generic odds: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92My9iZXQzNjUvcHJlbWF0Y2g_dG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJkZJPTE3NzI5MTYxNA~~
+2025-07-05T10:48:10: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:15: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:21: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:23: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:30: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:33: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:36: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:50: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:48:55: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:49:02: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-05T10:49:06: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwNQ~~
+2025-07-07T17:59:17: 
+2025-07-07T17:59:17:     ╔════════════════════════════════════════════╗
+2025-07-07T17:59:17:     ║      Fast Betting Analytics Bot            ║
+2025-07-07T17:59:17:     ║        (Simple Mode)                       ║
+2025-07-07T17:59:17:     ║                                            ║
+2025-07-07T17:59:17:     ║        Press Ctrl+C to stop                ║
+2025-07-07T17:59:17:     ╚════════════════════════════════════════════╝
+2025-07-07T17:59:17:     
+2025-07-07T17:59:17: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-07T17:59:17: 
+2025-07-07T17:59:17: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-07T17:59:21: 
+2025-07-07T17:59:21:     ╔════════════════════════════════════════════╗
+2025-07-07T17:59:21:     ║      Fast Betting Analytics Bot            ║
+2025-07-07T17:59:21:     ║        (Simple Mode)                       ║
+2025-07-07T17:59:21:     ║                                            ║
+2025-07-07T17:59:21:     ║        Press Ctrl+C to stop                ║
+2025-07-07T17:59:21:     ╚════════════════════════════════════════════╝
+2025-07-07T17:59:21:     
+2025-07-07T17:59:27: Database tables created successfully
+2025-07-07T17:59:35: Database tables created successfully
+2025-07-07T21:29:20: Error fetching tennis odds: ('Connection aborted.', OSError(101, 'Network is unreachable'))
+2025-07-08T07:35:49: 
+2025-07-08T07:35:49:     ╔════════════════════════════════════════════╗
+2025-07-08T07:35:49:     ║      Fast Betting Analytics Bot            ║
+2025-07-08T07:35:49:     ║        (Simple Mode)                       ║
+2025-07-08T07:35:49:     ║                                            ║
+2025-07-08T07:35:49:     ║        Press Ctrl+C to stop                ║
+2025-07-08T07:35:49:     ╚════════════════════════════════════════════╝
+2025-07-08T07:35:49:     
+2025-07-08T07:35:49: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-08T07:35:49: 
+2025-07-08T07:35:49: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-08T07:35:53: 
+2025-07-08T07:35:53:     ╔════════════════════════════════════════════╗
+2025-07-08T07:35:53:     ║      Fast Betting Analytics Bot            ║
+2025-07-08T07:35:53:     ║        (Simple Mode)                       ║
+2025-07-08T07:35:53:     ║                                            ║
+2025-07-08T07:35:53:     ║        Press Ctrl+C to stop                ║
+2025-07-08T07:35:53:     ╚════════════════════════════════════════════╝
+2025-07-08T07:35:53:     
+2025-07-08T07:35:59: Database tables created successfully
+2025-07-08T07:36:07: Database tables created successfully
+2025-07-08T22:05:18: 
+2025-07-08T22:05:18:     ╔════════════════════════════════════════════╗
+2025-07-08T22:05:18:     ║      Fast Betting Analytics Bot            ║
+2025-07-08T22:05:18:     ║        (Simple Mode)                       ║
+2025-07-08T22:05:18:     ║                                            ║
+2025-07-08T22:05:18:     ║        Press Ctrl+C to stop                ║
+2025-07-08T22:05:18:     ╚════════════════════════════════════════════╝
+2025-07-08T22:05:18:     
+2025-07-08T22:05:18: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-08T22:05:18: 
+2025-07-08T22:05:18: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-08T22:05:23: 
+2025-07-08T22:05:23:     ╔════════════════════════════════════════════╗
+2025-07-08T22:05:23:     ║      Fast Betting Analytics Bot            ║
+2025-07-08T22:05:23:     ║        (Simple Mode)                       ║
+2025-07-08T22:05:23:     ║                                            ║
+2025-07-08T22:05:23:     ║        Press Ctrl+C to stop                ║
+2025-07-08T22:05:23:     ╚════════════════════════════════════════════╝
+2025-07-08T22:05:23:     
+2025-07-08T22:05:28: Database tables created successfully
+2025-07-08T22:05:36: Database tables created successfully
+2025-07-09T11:57:54: 
+2025-07-09T11:57:54:     ╔════════════════════════════════════════════╗
+2025-07-09T11:57:54:     ║      Fast Betting Analytics Bot            ║
+2025-07-09T11:57:54:     ║        (Simple Mode)                       ║
+2025-07-09T11:57:54:     ║                                            ║
+2025-07-09T11:57:54:     ║        Press Ctrl+C to stop                ║
+2025-07-09T11:57:54:     ╚════════════════════════════════════════════╝
+2025-07-09T11:57:54:     
+2025-07-09T11:57:54: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-09T11:57:54: 
+2025-07-09T11:57:54: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-09T11:57:58: 
+2025-07-09T11:57:58:     ╔════════════════════════════════════════════╗
+2025-07-09T11:57:58:     ║      Fast Betting Analytics Bot            ║
+2025-07-09T11:57:58:     ║        (Simple Mode)                       ║
+2025-07-09T11:57:58:     ║                                            ║
+2025-07-09T11:57:58:     ║        Press Ctrl+C to stop                ║
+2025-07-09T11:57:58:     ╚════════════════════════════════════════════╝
+2025-07-09T11:57:58:     
+2025-07-09T11:58:01: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-09T11:58:01: 
+2025-07-09T11:58:01: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-09T11:58:05: 
+2025-07-09T11:58:05:     ╔════════════════════════════════════════════╗
+2025-07-09T11:58:05:     ║      Fast Betting Analytics Bot            ║
+2025-07-09T11:58:05:     ║        (Simple Mode)                       ║
+2025-07-09T11:58:05:     ║                                            ║
+2025-07-09T11:58:05:     ║        Press Ctrl+C to stop                ║
+2025-07-09T11:58:05:     ╚════════════════════════════════════════════╝
+2025-07-09T11:58:05:     
+2025-07-09T11:58:06: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-09T11:58:06: 
+2025-07-09T11:58:06: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-09T11:58:10: 
+2025-07-09T11:58:10:     ╔════════════════════════════════════════════╗
+2025-07-09T11:58:10:     ║      Fast Betting Analytics Bot            ║
+2025-07-09T11:58:10:     ║        (Simple Mode)                       ║
+2025-07-09T11:58:10:     ║                                            ║
+2025-07-09T11:58:10:     ║        Press Ctrl+C to stop                ║
+2025-07-09T11:58:10:     ╚════════════════════════════════════════════╝
+2025-07-09T11:58:10:     
+2025-07-09T11:58:11: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-09T11:58:11: 
+2025-07-09T11:58:11: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-09T11:58:16: 
+2025-07-09T11:58:16:     ╔════════════════════════════════════════════╗
+2025-07-09T11:58:16:     ║      Fast Betting Analytics Bot            ║
+2025-07-09T11:58:16:     ║        (Simple Mode)                       ║
+2025-07-09T11:58:16:     ║                                            ║
+2025-07-09T11:58:16:     ║        Press Ctrl+C to stop                ║
+2025-07-09T11:58:16:     ╚════════════════════════════════════════════╝
+2025-07-09T11:58:16:     
+2025-07-09T11:58:16: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-09T11:58:16: 
+2025-07-09T11:58:16: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-09T11:58:21: 
+2025-07-09T11:58:21:     ╔════════════════════════════════════════════╗
+2025-07-09T11:58:21:     ║      Fast Betting Analytics Bot            ║
+2025-07-09T11:58:21:     ║        (Simple Mode)                       ║
+2025-07-09T11:58:21:     ║                                            ║
+2025-07-09T11:58:21:     ║        Press Ctrl+C to stop                ║
+2025-07-09T11:58:21:     ╚════════════════════════════════════════════╝
+2025-07-09T11:58:21:     
+2025-07-09T11:58:22: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-09T11:58:22: 
+2025-07-09T11:58:22: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-09T11:58:26: 
+2025-07-09T11:58:26:     ╔════════════════════════════════════════════╗
+2025-07-09T11:58:26:     ║      Fast Betting Analytics Bot            ║
+2025-07-09T11:58:26:     ║        (Simple Mode)                       ║
+2025-07-09T11:58:26:     ║                                            ║
+2025-07-09T11:58:26:     ║        Press Ctrl+C to stop                ║
+2025-07-09T11:58:26:     ╚════════════════════════════════════════════╝
+2025-07-09T11:58:26:     
+2025-07-09T11:58:54: Database tables created successfully
+2025-07-09T11:59:05: Database tables created successfully
+2025-07-09T11:59:10: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:13: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:16: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:21: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:25: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:26: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:37: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:40: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:41: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:52: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T11:59:59: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:00:05: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:00:24: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:00:37: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:00:46: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:03: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:17: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:26: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:59: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:59: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:01:59: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:14: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:14: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:15: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:02:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:00: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:00: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:00: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:15: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:15: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:16: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:45: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:03:59: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:03: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:04: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:14: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:15: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:15: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:30: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:30: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:44: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:04:45: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:01: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:01: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:01: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:14: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:15: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:16: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:29: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTMmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:30: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9MTgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-09T12:05:31: Error fetching featured games: 403 Client Error: Forbidden for url: http://192.168.6.1:8090/ips/block/webcat?cat=21&pl=1&lu=0&url=aHR0cDovL2FwaS5iMzY1YXBpLmNvbS92MS9iZXQzNjUvdXBjb21pbmc_c3BvcnRfaWQ9NzgmdG9rZW49MjE1ODQ1LU1FN1RIdWl4SjFoT3hFJmRheT0yMDI1MDcwOQ~~
+2025-07-14T21:38:59: 
+2025-07-14T21:38:59:     ╔════════════════════════════════════════════╗
+2025-07-14T21:38:59:     ║      Fast Betting Analytics Bot            ║
+2025-07-14T21:38:59:     ║        (Simple Mode)                       ║
+2025-07-14T21:38:59:     ║                                            ║
+2025-07-14T21:38:59:     ║        Press Ctrl+C to stop                ║
+2025-07-14T21:38:59:     ╚════════════════════════════════════════════╝
+2025-07-14T21:38:59:     
+2025-07-14T21:38:59: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-14T21:38:59: 
+2025-07-14T21:38:59: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-14T21:39:03: 
+2025-07-14T21:39:03:     ╔════════════════════════════════════════════╗
+2025-07-14T21:39:03:     ║      Fast Betting Analytics Bot            ║
+2025-07-14T21:39:03:     ║        (Simple Mode)                       ║
+2025-07-14T21:39:03:     ║                                            ║
+2025-07-14T21:39:03:     ║        Press Ctrl+C to stop                ║
+2025-07-14T21:39:03:     ╚════════════════════════════════════════════╝
+2025-07-14T21:39:03:     
+2025-07-14T21:39:12: Database tables created successfully
+2025-07-14T21:39:21: Database tables created successfully
+2025-07-14T22:03:52: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-07-14T22:04:07: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-07-14T22:04:42: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-07-14T22:05:24: Error fetching tennis odds: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-15T15:01:58: 
+2025-07-15T15:01:58:     ╔════════════════════════════════════════════╗
+2025-07-15T15:01:58:     ║      Fast Betting Analytics Bot            ║
+2025-07-15T15:01:58:     ║        (Simple Mode)                       ║
+2025-07-15T15:01:58:     ║                                            ║
+2025-07-15T15:01:58:     ║        Press Ctrl+C to stop                ║
+2025-07-15T15:01:58:     ╚════════════════════════════════════════════╝
+2025-07-15T15:01:58:     
+2025-07-15T15:01:58: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-15T15:01:58: 
+2025-07-15T15:01:58: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-15T15:02:02: 
+2025-07-15T15:02:02:     ╔════════════════════════════════════════════╗
+2025-07-15T15:02:02:     ║      Fast Betting Analytics Bot            ║
+2025-07-15T15:02:02:     ║        (Simple Mode)                       ║
+2025-07-15T15:02:02:     ║                                            ║
+2025-07-15T15:02:02:     ║        Press Ctrl+C to stop                ║
+2025-07-15T15:02:02:     ╚════════════════════════════════════════════╝
+2025-07-15T15:02:02:     
+2025-07-15T15:02:08: Database tables created successfully
+2025-07-15T15:02:16: Database tables created successfully
+2025-07-15T15:02:37: Error fetching tennis odds: HTTPConnectionPool(host='api.b365api.com', port=80): Max retries exceeded with url: /v3/bet365/prematch?token=215845-ME7THuixJ1hOxE&FI=177905808 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7a075dd335f0>: Failed to resolve 'api.b365api.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-07-15T15:02:37: Error fetching tennis odds: HTTPConnectionPool(host='api.b365api.com', port=80): Max retries exceeded with url: /v3/bet365/prematch?token=215845-ME7THuixJ1hOxE&FI=177905812 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7a075dd33410>: Failed to resolve 'api.b365api.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-07-15T15:02:37: Error fetching tennis odds: HTTPConnectionPool(host='api.b365api.com', port=80): Max retries exceeded with url: /v3/bet365/prematch?token=215845-ME7THuixJ1hOxE&FI=177905813 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7a075dd32570>: Failed to resolve 'api.b365api.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-07-16T12:57:03: 
+2025-07-16T12:57:03:     ╔════════════════════════════════════════════╗
+2025-07-16T12:57:03:     ║      Fast Betting Analytics Bot            ║
+2025-07-16T12:57:03:     ║        (Simple Mode)                       ║
+2025-07-16T12:57:03:     ║                                            ║
+2025-07-16T12:57:03:     ║        Press Ctrl+C to stop                ║
+2025-07-16T12:57:03:     ╚════════════════════════════════════════════╝
+2025-07-16T12:57:03:     
+2025-07-16T12:57:03: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-16T12:57:03: 
+2025-07-16T12:57:03: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-16T12:57:08: 
+2025-07-16T12:57:08:     ╔════════════════════════════════════════════╗
+2025-07-16T12:57:08:     ║      Fast Betting Analytics Bot            ║
+2025-07-16T12:57:08:     ║        (Simple Mode)                       ║
+2025-07-16T12:57:08:     ║                                            ║
+2025-07-16T12:57:08:     ║        Press Ctrl+C to stop                ║
+2025-07-16T12:57:08:     ╚════════════════════════════════════════════╝
+2025-07-16T12:57:08:     
+2025-07-16T12:57:08: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-16T12:57:08: 
+2025-07-16T12:57:08: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-16T12:57:12: 
+2025-07-16T12:57:12:     ╔════════════════════════════════════════════╗
+2025-07-16T12:57:12:     ║      Fast Betting Analytics Bot            ║
+2025-07-16T12:57:12:     ║        (Simple Mode)                       ║
+2025-07-16T12:57:12:     ║                                            ║
+2025-07-16T12:57:12:     ║        Press Ctrl+C to stop                ║
+2025-07-16T12:57:12:     ╚════════════════════════════════════════════╝
+2025-07-16T12:57:12:     
+2025-07-16T12:57:19: Database tables created successfully
+2025-07-16T12:57:28: Database tables created successfully
+2025-07-16T12:58:08: Error fetching tennis odds: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-16T12:59:36: Error fetching tennis odds: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-17T21:19:02: 
+2025-07-17T21:19:02:     ╔════════════════════════════════════════════╗
+2025-07-17T21:19:02:     ║      Fast Betting Analytics Bot            ║
+2025-07-17T21:19:02:     ║        (Simple Mode)                       ║
+2025-07-17T21:19:02:     ║                                            ║
+2025-07-17T21:19:02:     ║        Press Ctrl+C to stop                ║
+2025-07-17T21:19:02:     ╚════════════════════════════════════════════╝
+2025-07-17T21:19:02:     
+2025-07-17T21:19:02: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-17T21:19:02: 
+2025-07-17T21:19:02: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-17T21:19:07: 
+2025-07-17T21:19:07:     ╔════════════════════════════════════════════╗
+2025-07-17T21:19:07:     ║      Fast Betting Analytics Bot            ║
+2025-07-17T21:19:07:     ║        (Simple Mode)                       ║
+2025-07-17T21:19:07:     ║                                            ║
+2025-07-17T21:19:07:     ║        Press Ctrl+C to stop                ║
+2025-07-17T21:19:07:     ╚════════════════════════════════════════════╝
+2025-07-17T21:19:07:     
+2025-07-17T21:19:07: Error creating database tables: (psycopg2.OperationalError) could not translate host name "ep-dawn-glitter-a8pzqr95-pooler.eastus2.azure.neon.tech" to address: Temporary failure in name resolution
+2025-07-17T21:19:07: 
+2025-07-17T21:19:07: (Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-17T21:19:11: 
+2025-07-17T21:19:11:     ╔════════════════════════════════════════════╗
+2025-07-17T21:19:11:     ║      Fast Betting Analytics Bot            ║
+2025-07-17T21:19:11:     ║        (Simple Mode)                       ║
+2025-07-17T21:19:11:     ║                                            ║
+2025-07-17T21:19:11:     ║        Press Ctrl+C to stop                ║
+2025-07-17T21:19:11:     ╚════════════════════════════════════════════╝
+2025-07-17T21:19:11:     
+2025-07-17T21:19:19: Database tables created successfully
+2025-07-17T21:19:28: Database tables created successfully
+2025-07-17T21:52:46: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-07-17T22:30:32: Error fetching tennis odds: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

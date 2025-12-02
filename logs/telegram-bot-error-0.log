@@ -1,0 +1,196 @@
+2025-07-01T23:59:53: 2025-07-01 23:59:53,612 - __main__ - INFO - 🚀 Starting bot with robust polling and error handling...
+2025-07-01T23:59:53: 2025-07-01 23:59:53,613 - __main__ - INFO - 📊 Data fetching runs separately in data_service.py
+2025-07-01T23:59:53: 2025-07-01 23:59:53,613 - __main__ - INFO - 🔧 Network configuration: 30s timeouts, 20 connection pool, HTTP/1.1, Robust error handling
+2025-07-01T23:59:53: /home/parthiv/STUDY/bot/telegram_bot.py:884: PTBDeprecationWarning: Setting timeouts via `Application.run_polling` is deprecated. Please use `ApplicationBuilder.get_updates_*_timeout` instead.
+2025-07-01T23:59:53:   application.run_polling(
+2025-07-01T23:59:54: 2025-07-01 23:59:54,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getMe "HTTP/1.1 200 OK"
+2025-07-01T23:59:54: 2025-07-01 23:59:54,356 - __main__ - INFO - Bot initialized - starting notification service...
+2025-07-01T23:59:54: 2025-07-01 23:59:54,356 - __main__ - INFO - ✅ Bot ready to handle commands
+2025-07-01T23:59:54: 2025-07-01 23:59:54,607 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-01T23:59:54: 2025-07-01 23:59:54,609 - telegram.ext.Application - INFO - Application started
+2025-07-01T23:59:59: 2025-07-01 23:59:59,360 - __main__ - INFO - Starting notification loop...
+2025-07-02T00:00:15: 2025-07-02 00:00:15,299 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:00:36: 2025-07-02 00:00:36,615 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:00:39: 2025-07-02 00:00:39,239 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/sendMessage "HTTP/1.1 200 OK"
+2025-07-02T00:00:44: 2025-07-02 00:00:44,503 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:00:45: 2025-07-02 00:00:45,367 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:00:45: 2025-07-02 00:00:45,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:00:48: 2025-07-02 00:00:48,315 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:00:48: 2025-07-02 00:00:48,686 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:00:49: 2025-07-02 00:00:49,184 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:00:51: 2025-07-02 00:00:51,281 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ReadError: 
+2025-07-02T00:00:51: 2025-07-02 00:00:51,281 - __main__ - ERROR - Exception while handling an update: httpx.ReadError: 
+2025-07-02T00:00:51: 2025-07-02 00:00:51,282 - __main__ - WARNING - Network error encountered: httpx.ReadError: 
+2025-07-02T00:01:06: 2025-07-02 00:01:06,216 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:01:12: 2025-07-02 00:01:12,338 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:01:12: 2025-07-02 00:01:12,790 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:01:32: 2025-07-02 00:01:32,161 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:01:41: 2025-07-02 00:01:41,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:01:45: 2025-07-02 00:01:45,809 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:01:45: 2025-07-02 00:01:45,810 - paypalrestsdk.api - INFO - Request[POST]: https://api.sandbox.paypal.com/v1/oauth2/token
+2025-07-02T00:01:48: 2025-07-02 00:01:48,635 - paypalrestsdk.api - INFO - Response[200]: OK, Duration: 2.824700s.
+2025-07-02T00:01:48: 2025-07-02 00:01:48,636 - paypalrestsdk.api - INFO - PayPal-Request-Id: 7476aa0c-48bd-4e6a-bf82-2bd3da6f14fb
+2025-07-02T00:01:48: 2025-07-02 00:01:48,636 - paypalrestsdk.api - INFO - Request[POST]: https://api.sandbox.paypal.com/v1/payments/payment
+2025-07-02T00:01:52: 2025-07-02 00:01:52,210 - paypalrestsdk.api - INFO - Response[201]: Created, Duration: 3.573735s.
+2025-07-02T00:01:52: 2025-07-02 00:01:52,211 - paypal_integration - INFO - PayPal payment created successfully: PAYID-NBSCTFY9JB41230TY481401W
+2025-07-02T00:01:54: 2025-07-02 00:01:54,968 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:02:05: 2025-07-02 00:02:05,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:02:27: 2025-07-02 00:02:27,899 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:02:52: 2025-07-02 00:02:52,446 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:03:14: 2025-07-02 00:03:14,890 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:03:37: 2025-07-02 00:03:37,198 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:03:59: 2025-07-02 00:03:59,407 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:04:21: 2025-07-02 00:04:21,655 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:04:43: 2025-07-02 00:04:43,843 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:05:06: 2025-07-02 00:05:06,734 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:05:19: 2025-07-02 00:05:19,689 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:05:19: 2025-07-02 00:05:19,689 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02T00:05:19: 2025-07-02 00:05:19,689 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02T00:05:19: 2025-07-02 00:05:19,753 - asyncio - ERROR - Task was destroyed but it is pending!
+2025-07-02T00:05:19: task: <Task pending name='Task-6' coro=<BettingBot._start_notifications_with_delay() running at /home/parthiv/STUDY/bot/telegram_bot.py:783> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-02T00:12:09: 2025-07-02 00:12:09,220 - __main__ - INFO - 🚀 Starting bot with robust polling and error handling...
+2025-07-02T00:12:09: 2025-07-02 00:12:09,220 - __main__ - INFO - 📊 Data fetching runs separately in data_service.py
+2025-07-02T00:12:09: 2025-07-02 00:12:09,220 - __main__ - INFO - 🔧 Network configuration: 30s timeouts, 20 connection pool, HTTP/1.1, Robust error handling
+2025-07-02T00:12:09: /home/parthiv/STUDY/bot/telegram_bot.py:884: PTBDeprecationWarning: Setting timeouts via `Application.run_polling` is deprecated. Please use `ApplicationBuilder.get_updates_*_timeout` instead.
+2025-07-02T00:12:09:   application.run_polling(
+2025-07-02T00:12:09: 2025-07-02 00:12:09,905 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getMe "HTTP/1.1 200 OK"
+2025-07-02T00:12:09: 2025-07-02 00:12:09,906 - __main__ - INFO - Bot initialized - starting notification service...
+2025-07-02T00:12:09: 2025-07-02 00:12:09,906 - __main__ - INFO - ✅ Bot ready to handle commands
+2025-07-02T00:12:10: 2025-07-02 00:12:10,095 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02T00:12:10: 2025-07-02 00:12:10,097 - telegram.ext.Application - INFO - Application started
+2025-07-02T00:12:13: 2025-07-02 00:12:13,677 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:12:14: 2025-07-02 00:12:14,907 - __main__ - INFO - Starting notification loop...
+2025-07-02T00:12:20: 2025-07-02 00:12:20,054 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/sendMessage "HTTP/1.1 200 OK"
+2025-07-02T00:12:38: 2025-07-02 00:12:38,017 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:12:39: 2025-07-02 00:12:39,075 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:12:39: 2025-07-02 00:12:39,592 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:12:41: 2025-07-02 00:12:41,511 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:12:41: 2025-07-02 00:12:41,948 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:12:42: 2025-07-02 00:12:42,472 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:12:44: 2025-07-02 00:12:44,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:12:44: 2025-07-02 00:12:44,671 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:12:45: 2025-07-02 00:12:45,057 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:12:46: 2025-07-02 00:12:46,610 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:12:46: 2025-07-02 00:12:46,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:12:46: 2025-07-02 00:12:46,990 - paypalrestsdk.api - INFO - Request[POST]: https://api.sandbox.paypal.com/v1/oauth2/token
+2025-07-02T00:12:50: 2025-07-02 00:12:50,560 - paypalrestsdk.api - INFO - Response[200]: OK, Duration: 3.569728s.
+2025-07-02T00:12:50: 2025-07-02 00:12:50,561 - paypalrestsdk.api - INFO - PayPal-Request-Id: ed4e1e2f-9758-485c-8d0b-f76c035afcc3
+2025-07-02T00:12:50: 2025-07-02 00:12:50,561 - paypalrestsdk.api - INFO - Request[POST]: https://api.sandbox.paypal.com/v1/payments/payment
+2025-07-02T00:12:52: 2025-07-02 00:12:52,754 - paypalrestsdk.api - INFO - Response[201]: Created, Duration: 2.192577s.
+2025-07-02T00:12:52: 2025-07-02 00:12:52,755 - paypal_integration - INFO - PayPal payment created successfully: PAYID-NBSCYLA9MT68359E0839323D
+2025-07-02T00:12:57: 2025-07-02 00:12:57,738 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:13:17: 2025-07-02 00:13:17,544 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:13:39: 2025-07-02 00:13:39,764 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:14:05: 2025-07-02 00:14:05,000 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:14:27: 2025-07-02 00:14:27,709 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:14:38: 2025-07-02 00:14:38,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:14:38: 2025-07-02 00:14:38,931 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02T00:14:38: 2025-07-02 00:14:38,932 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02T00:14:38: 2025-07-02 00:14:38,970 - asyncio - ERROR - Task was destroyed but it is pending!
+2025-07-02T00:14:38: task: <Task pending name='Task-6' coro=<BettingBot._start_notifications_with_delay() running at /home/parthiv/STUDY/bot/telegram_bot.py:783> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-02T00:17:38: 2025-07-02 00:17:38,138 - __main__ - INFO - 🚀 Starting bot with robust polling and error handling...
+2025-07-02T00:17:38: 2025-07-02 00:17:38,138 - __main__ - INFO - 📊 Data fetching runs separately in data_service.py
+2025-07-02T00:17:38: 2025-07-02 00:17:38,138 - __main__ - INFO - 🔧 Network configuration: 30s timeouts, 20 connection pool, HTTP/1.1, Robust error handling
+2025-07-02T00:17:38: /home/parthiv/STUDY/bot/telegram_bot.py:884: PTBDeprecationWarning: Setting timeouts via `Application.run_polling` is deprecated. Please use `ApplicationBuilder.get_updates_*_timeout` instead.
+2025-07-02T00:17:38:   application.run_polling(
+2025-07-02T00:17:38: 2025-07-02 00:17:38,873 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getMe "HTTP/1.1 200 OK"
+2025-07-02T00:17:38: 2025-07-02 00:17:38,873 - __main__ - INFO - Bot initialized - starting notification service...
+2025-07-02T00:17:38: 2025-07-02 00:17:38,873 - __main__ - INFO - ✅ Bot ready to handle commands
+2025-07-02T00:17:39: 2025-07-02 00:17:39,135 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-02T00:17:39: 2025-07-02 00:17:39,136 - telegram.ext.Application - INFO - Application started
+2025-07-02T00:17:43: 2025-07-02 00:17:43,878 - __main__ - INFO - Starting notification loop...
+2025-07-02T00:17:59: 2025-07-02 00:17:59,861 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:18:10: 2025-07-02 00:18:10,599 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:18:12: 2025-07-02 00:18:12,219 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/sendMessage "HTTP/1.1 200 OK"
+2025-07-02T00:18:13: 2025-07-02 00:18:13,500 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:18:13: 2025-07-02 00:18:13,898 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:18:14: 2025-07-02 00:18:14,386 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:18:15: 2025-07-02 00:18:15,706 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:18:16: 2025-07-02 00:18:16,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:18:16: 2025-07-02 00:18:16,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:18:20: 2025-07-02 00:18:20,239 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:18:20: 2025-07-02 00:18:20,606 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:18:20: 2025-07-02 00:18:20,991 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:18:22: 2025-07-02 00:18:22,600 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:18:22: 2025-07-02 00:18:22,971 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-02T00:18:22: 2025-07-02 00:18:22,972 - paypalrestsdk.api - INFO - Request[POST]: https://api.sandbox.paypal.com/v1/oauth2/token
+2025-07-02T00:18:24: 2025-07-02 00:18:24,246 - paypalrestsdk.api - INFO - Response[200]: OK, Duration: 1.273681s.
+2025-07-02T00:18:24: 2025-07-02 00:18:24,247 - paypalrestsdk.api - INFO - PayPal-Request-Id: 7fb8262c-5eb4-426b-9cc1-c569540bbb1a
+2025-07-02T00:18:24: 2025-07-02 00:18:24,247 - paypalrestsdk.api - INFO - Request[POST]: https://api.sandbox.paypal.com/v1/payments/payment
+2025-07-02T00:18:25: 2025-07-02 00:18:25,454 - paypalrestsdk.api - INFO - Response[201]: Created, Duration: 1.206926s.
+2025-07-02T00:18:25: 2025-07-02 00:18:25,456 - paypal_integration - INFO - PayPal payment created successfully: PAYID-NBSC26I1JC664633P9200345
+2025-07-02T00:18:27: 2025-07-02 00:18:27,183 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/editMessageText "HTTP/1.1 200 OK"
+2025-07-02T00:18:46: 2025-07-02 00:18:46,851 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:19:09: 2025-07-02 00:19:09,042 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:19:31: 2025-07-02 00:19:31,261 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:19:53: 2025-07-02 00:19:53,647 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:20:15: 2025-07-02 00:20:15,849 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:20:39: 2025-07-02 00:20:39,334 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:21:01: 2025-07-02 00:21:01,694 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:21:23: 2025-07-02 00:21:23,894 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:21:45: 2025-07-02 00:21:45,745 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7597174227:AAEiXeov2-lavHIpi7xXjPb2_HvZ0YeSv6E/getUpdates "HTTP/1.1 200 OK"
+2025-07-02T00:21:45: 2025-07-02 00:21:45,758 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-02T00:21:45: 2025-07-02 00:21:45,763 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-02T00:21:46: 2025-07-02 00:21:46,020 - asyncio - ERROR - Task exception was never retrieved
+2025-07-02T00:21:46: future: <Task finished name='Task-6' coro=<BettingBot._start_notifications_with_delay() done, defined at /home/parthiv/STUDY/bot/telegram_bot.py:779> exception=KeyboardInterrupt()>
+2025-07-02T00:21:46: Traceback (most recent call last):
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/telegram/ext/_application.py", line 1000, in __run
+2025-07-02T00:21:46:     loop.run_forever()
+2025-07-02T00:21:46:   File "/usr/lib/python3.12/asyncio/base_events.py", line 641, in run_forever
+2025-07-02T00:21:46:     self._run_once()
+2025-07-02T00:21:46:   File "/usr/lib/python3.12/asyncio/base_events.py", line 1987, in _run_once
+2025-07-02T00:21:46:     handle._run()
+2025-07-02T00:21:46:   File "/usr/lib/python3.12/asyncio/events.py", line 88, in _run
+2025-07-02T00:21:46:     self._context.run(self._callback, *self._args)
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/telegram_bot.py", line 783, in _start_notifications_with_delay
+2025-07-02T00:21:46:     await self.notification_loop()
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/telegram_bot.py", line 691, in notification_loop
+2025-07-02T00:21:46:     matches = await odds_tracker.get_matches_for_notification()
+2025-07-02T00:21:46:               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/odds_tracker.py", line 713, in get_matches_for_notification
+2025-07-02T00:21:46:     ).count()
+2025-07-02T00:21:46:       ^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 3132, in count
+2025-07-02T00:21:46:     self._legacy_from_self(col).enable_eagerloads(False).scalar()
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2825, in scalar
+2025-07-02T00:21:46:     ret = self.one()
+2025-07-02T00:21:46:           ^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2798, in one
+2025-07-02T00:21:46:     return self._iter().one()  # type: ignore
+2025-07-02T00:21:46:            ^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/orm/query.py", line 2847, in _iter
+2025-07-02T00:21:46:     result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+2025-07-02T00:21:46:                                                   ^^^^^^^^^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2308, in execute
+2025-07-02T00:21:46:     return self._execute_internal(
+2025-07-02T00:21:46:            ^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2190, in _execute_internal
+2025-07-02T00:21:46:     result: Result[Any] = compile_state_cls.orm_execute_statement(
+2025-07-02T00:21:46:                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+2025-07-02T00:21:46:     result = conn.execute(
+2025-07-02T00:21:46:              ^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+2025-07-02T00:21:46:     return meth(
+2025-07-02T00:21:46:            ^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/sql/elements.py", line 516, in _execute_on_connection
+2025-07-02T00:21:46:     return connection._execute_clauseelement(
+2025-07-02T00:21:46:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1639, in _execute_clauseelement
+2025-07-02T00:21:46:     ret = self._execute_context(
+2025-07-02T00:21:46:           ^^^^^^^^^^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1848, in _execute_context
+2025-07-02T00:21:46:     return self._exec_single_context(
+2025-07-02T00:21:46:            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1988, in _exec_single_context
+2025-07-02T00:21:46:     self._handle_dbapi_exception(
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2346, in _handle_dbapi_exception
+2025-07-02T00:21:46:     raise exc_info[1].with_traceback(exc_info[2])
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 1969, in _exec_single_context
+2025-07-02T00:21:46:     self.dialect.do_execute(
+2025-07-02T00:21:46:   File "/home/parthiv/STUDY/bot/myenv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 922, in do_execute
+2025-07-02T00:21:46:     cursor.execute(statement, parameters)
+2025-07-02T00:21:46:   File "/usr/lib/python3.12/encodings/utf_8.py", line 15, in decode
+2025-07-02T00:21:46:     def decode(input, errors='strict'):
+2025-07-02T00:21:46:     
+2025-07-02T00:21:46: KeyboardInterrupt

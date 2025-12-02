@@ -131,12 +131,29 @@ engine = create_database_engine()
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 def init_db():
-    """Initialize the database by creating all tables"""
+    """Initialize the database by creating all tables and default plans if needed"""
     try:
         Base.metadata.create_all(bind=engine)
         print("Database tables created successfully")
+        
+        # Check if plans are already seeded
+        db = SessionLocal()
+        if db.query(Plan).count() == 0:
+            print("Seeding default plans...")
+            default_plans = [
+                {'name': 'single_sport', 'price': 10.0},
+                {'name': 'two_sports', 'price': 18.0},
+                {'name': 'full_access', 'price': 25.0}
+            ]
+            for plan_data in default_plans:
+                plan = Plan(**plan_data)
+                db.add(plan)
+            db.commit()
+            print("Default plans seeded successfully")
+        db.close()
+            
     except Exception as e:
-        print(f"Error creating database tables: {str(e)}")
+        print(f"Error creating database tables or seeding plans: {str(e)}")
         raise
 
 def get_db():
@@ -145,4 +162,40 @@ def get_db():
     try:
         yield db
     finally:
-        db.close() 
+        db.close()
+
+class Plan(Base):
+    __tablename__ = 'plans'
+    
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    name = Column(String, unique=True, nullable=False)
+    price = Column(Float, nullable=False)
+
+def get_all_plans():
+    """Returns list of plans with names & prices"""
+    db = SessionLocal()
+    try:
+        plans = db.query(Plan).all()
+        return [{"name": p.name, "price": p.price} for p in plans]
+    except Exception as e:
+        print(f"Error fetching plans: {e}")
+        return []
+    finally:
+        db.close()
+
+def update_plan_price(plan_name, new_price):
+    """Updates price dynamically"""
+    db = SessionLocal()
+    try:
+        plan = db.query(Plan).filter(Plan.name == plan_name).first()
+        if plan:
+            plan.price = new_price
+            db.commit()
+            return True
+        return False
+    except Exception as e:
+        print(f"Error updating plan price: {e}")
+        db.rollback()
+        return False
+    finally:
+        db.close()

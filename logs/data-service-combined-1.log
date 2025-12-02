@@ -1,0 +1,73 @@
+2025-07-01T23:59:47: 2025-07-01 23:59:47,344 - __main__ - INFO - 🚀 Starting Data Service...
+2025-07-01T23:59:47: 2025-07-01 23:59:47,344 - __main__ - INFO - 📊 This service handles odds tracking independently from the bot
+2025-07-01T23:59:47: 2025-07-01 23:59:47,344 - odds_tracker - INFO - Starting continuous odds tracking...
+2025-07-01T23:59:47: 2025-07-01 23:59:47,344 - odds_tracker - INFO - Fetching tennis matches...
+2025-07-02T00:01:23: 2025-07-02 00:01:23,086 - odds_tracker - INFO - Fetching basketball matches...
+2025-07-02T00:01:43: 2025-07-02 00:01:43,108 - odds_tracker - INFO - Added new match: IND Fever vs MIN Lynx
+2025-07-02T00:01:45: 2025-07-02 00:01:45,180 - odds_tracker - INFO - Added new match: Calero Potosi vs Kinwa La Paz
+2025-07-02T00:01:46: 2025-07-02 00:01:46,715 - odds_tracker - INFO - Added new match: Titanes del Licey vs Caneros del Este
+2025-07-02T00:01:48: 2025-07-02 00:01:48,634 - odds_tracker - INFO - Added new match: Vancouver Bandits vs Scarborough Shooting Stars
+2025-07-02T00:01:52: 2025-07-02 00:01:52,436 - odds_tracker - INFO - Added new match: Chile Women vs Colombia Women
+2025-07-02T00:01:54: 2025-07-02 00:01:54,250 - odds_tracker - INFO - Added new match: Santa Paula de Galvez vs Club San Martin de Marcos Juarez
+2025-07-02T00:01:57: 2025-07-02 00:01:57,210 - odds_tracker - INFO - Added new match: Paisas vs Caribbean Storm Islands
+2025-07-02T00:01:58: 2025-07-02 00:01:58,984 - odds_tracker - INFO - Added new match: Boca Juniors vs Instituto
+2025-07-02T00:02:00: 2025-07-02 00:02:00,873 - odds_tracker - INFO - Added new match: Astros de Jalisco vs Zonkeys de Tijuana
+2025-07-02T00:02:03: 2025-07-02 00:02:03,066 - odds_tracker - INFO - Added new match: AU Chiefs vs JRU Bombers
+2025-07-02T00:02:04: 2025-07-02 00:02:04,917 - odds_tracker - INFO - Added new match: Escazu Escoba vs ARBA
+2025-07-02T00:02:07: 2025-07-02 00:02:07,084 - odds_tracker - INFO - Added new match: MU Cardinals vs UPHSD Altas
+2025-07-02T00:02:08: 2025-07-02 00:02:08,662 - odds_tracker - INFO - Added new match: Fiji 3x3 U23 Women vs Palau 3x3 U23 Women
+2025-07-02T00:02:13: 2025-07-02 00:02:13,054 - odds_tracker - INFO - Added new match: Micronesia 3x3 U23 Women vs Tahiti 3x3 U23 Women
+2025-07-02T00:02:16: 2025-07-02 00:02:16,471 - odds_tracker - INFO - Added new match: Fiji 3x3 U23 vs Vanuatu 3x3 U23
+2025-07-02T00:02:18: 2025-07-02 00:02:18,859 - odds_tracker - INFO - Added new match: Micronesia 3x3 U23 vs Tahiti 3x3 U23
+2025-07-02T00:02:21: 2025-07-02 00:02:21,028 - odds_tracker - INFO - Added new match: Papua New Guinea 3x3 U23 Women vs Marshall Islands 3x3 U23 Women
+2025-07-02T00:02:23: 2025-07-02 00:02:23,285 - odds_tracker - INFO - Added new match: Samoa 3x3 U23 Women vs Northern Mariana Islands 3x3 U23 Women
+2025-07-02T00:02:26: 2025-07-02 00:02:26,836 - odds_tracker - INFO - Added new match: UE Red Warriors vs UST Growling Tigers
+2025-07-02T00:02:29: 2025-07-02 00:02:29,216 - odds_tracker - INFO - Added new match: Thailand Women vs Japan Universiade Women
+2025-07-02T00:02:50: 2025-07-02 00:02:50,076 - odds_tracker - WARNING - Missing essential odds data for match 177182326
+2025-07-02T00:02:50: 2025-07-02 00:02:50,319 - odds_tracker - INFO - Fetching handball matches...
+2025-07-02T00:02:56: 2025-07-02 00:02:56,370 - odds_tracker - INFO - Added new match: Akitakata vs Ablaze
+2025-07-02T00:02:58: 2025-07-02 00:02:58,175 - odds_tracker - INFO - Added new match: Wakunaga vs Ablaze
+2025-07-02T00:02:59: 2025-07-02 00:02:59,690 - odds_tracker - INFO - Added new match: Regarosso vs Liaison Osaka
+2025-07-02T00:03:30: 2025-07-02 00:03:30,456 - odds_tracker - INFO - Fetching tennis matches...
+2025-07-02T00:03:47: 2025-07-02 00:03:47,281 - odds_tracker - INFO - Added new match: Hiromasa Koyama vs Tai Leonard Sach
+2025-07-02T00:03:49: 2025-07-02 00:03:49,778 - odds_tracker - INFO - Added new match: Jangjun Kim vs Kokoro Isomura
+2025-07-02T00:03:51: 2025-07-02 00:03:51,976 - odds_tracker - INFO - Added new match: Nathan Ponwith vs Andrew Johnson
+2025-07-02T00:03:53: 2025-07-02 00:03:53,837 - odds_tracker - INFO - Added new match: Woobin Shin vs Makoto Ochi
+2025-07-02T00:03:55: 2025-07-02 00:03:55,704 - odds_tracker - INFO - Added new match: Tomohiro Masabayashi vs Ryota Tanuma
+2025-07-02T00:03:57: 2025-07-02 00:03:57,254 - odds_tracker - INFO - Added new match: Aryan Jit Singh vs Chen Hui Ho
+2025-07-02T00:03:58: 2025-07-02 00:03:58,957 - odds_tracker - INFO - Added new match: Arjun Mehrotra vs Hung-Yi Yeh
+2025-07-02T00:04:01: 2025-07-02 00:04:01,510 - odds_tracker - INFO - Added new match: Chen-Yu Lu vs Satoru Nakajima
+2025-07-02T00:04:03: 2025-07-02 00:04:03,533 - odds_tracker - INFO - Added new match: Nagomi Higashitani vs Kyoka Kubo
+2025-07-02T00:04:06: 2025-07-02 00:04:06,128 - odds_tracker - INFO - Added new match: Belle Thompson vs Elina Nepliy
+2025-07-02T00:04:08: 2025-07-02 00:04:08,492 - odds_tracker - INFO - Added new match: Jeng Juyun vs Maiko Uchijima
+2025-07-02T00:04:10: 2025-07-02 00:04:10,358 - odds_tracker - INFO - Added new match: Ya Yi Yang vs BoYoung Jeong
+2025-07-02T00:04:12: 2025-07-02 00:04:12,466 - odds_tracker - INFO - Added new match: Fangran Tian vs Kallista Liu
+2025-07-02T00:04:15: 2025-07-02 00:04:15,279 - odds_tracker - INFO - Added new match: Chen/Hu vs Sun/Zhang
+2025-07-02T00:04:17: 2025-07-02 00:04:17,628 - odds_tracker - INFO - Added new match: Pawit Sornlaksup vs Karlis Ozolins
+2025-07-02T00:04:19: 2025-07-02 00:04:19,470 - odds_tracker - INFO - Added new match: Daisuke Sumizawa vs Luca Castelnuovo
+2025-07-02T00:04:21: 2025-07-02 00:04:21,432 - odds_tracker - INFO - Added new match: Fnu Nidunjianzan vs Sanhui Shin
+2025-07-02T00:04:23: 2025-07-02 00:04:23,305 - odds_tracker - INFO - Added new match: Qian Sun vs Xiaofei Wang
+2025-07-02T00:04:25: 2025-07-02 00:04:25,330 - odds_tracker - INFO - Added new match: Ching Laam Lai vs Naomi Xu
+2025-07-02T00:04:27: 2025-07-02 00:04:27,776 - odds_tracker - INFO - Added new match: Yanan Hou vs Sofya Lansere
+2025-07-02T00:05:19: 2025-07-02 00:05:19,981 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-07-02T00:12:01: 2025-07-02 00:12:01,113 - __main__ - INFO - 🚀 Starting Data Service...
+2025-07-02T00:12:01: 2025-07-02 00:12:01,113 - __main__ - INFO - 📊 This service handles odds tracking independently from the bot
+2025-07-02T00:12:01: 2025-07-02 00:12:01,113 - odds_tracker - INFO - Starting continuous odds tracking...
+2025-07-02T00:12:01: 2025-07-02 00:12:01,114 - odds_tracker - INFO - Fetching tennis matches...
+2025-07-02T00:13:21: 2025-07-02 00:13:21,922 - odds_tracker - INFO - Fetching basketball matches...
+2025-07-02T00:13:55: 2025-07-02 00:13:55,936 - odds_tracker - WARNING - Missing essential odds data for match 177182326
+2025-07-02T00:13:57: 2025-07-02 00:13:57,775 - odds_tracker - WARNING - Missing essential odds data for match 177182621
+2025-07-02T00:14:04: 2025-07-02 00:14:04,746 - odds_tracker - INFO - Fetching handball matches...
+2025-07-02T00:14:38: 2025-07-02 00:14:38,906 - odds_tracker - INFO - Fetching tennis matches...
+2025-07-02T00:14:39: 2025-07-02 00:14:39,048 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-07-02T00:17:33: 2025-07-02 00:17:33,009 - __main__ - INFO - 🚀 Starting Data Service...
+2025-07-02T00:17:33: 2025-07-02 00:17:33,009 - __main__ - INFO - 📊 This service handles odds tracking independently from the bot
+2025-07-02T00:17:33: 2025-07-02 00:17:33,009 - odds_tracker - INFO - Starting continuous odds tracking...
+2025-07-02T00:17:33: 2025-07-02 00:17:33,009 - odds_tracker - INFO - Fetching tennis matches...
+2025-07-02T00:18:45: 2025-07-02 00:18:45,928 - odds_tracker - INFO - Fetching basketball matches...
+2025-07-02T00:19:16: 2025-07-02 00:19:16,549 - odds_tracker - WARNING - Missing essential odds data for match 177182326
+2025-07-02T00:19:18: 2025-07-02 00:19:18,438 - odds_tracker - WARNING - Missing essential odds data for match 177182621
+2025-07-02T00:19:24: 2025-07-02 00:19:24,786 - odds_tracker - INFO - Fetching handball matches...
+2025-07-02T00:20:01: 2025-07-02 00:20:01,900 - odds_tracker - INFO - Fetching tennis matches...
+2025-07-02T00:21:25: 2025-07-02 00:21:25,152 - odds_tracker - INFO - Fetching basketball matches...
+2025-07-02T00:21:46: 2025-07-02 00:21:46,182 - __main__ - INFO - Received signal 2, shutting down gracefully...

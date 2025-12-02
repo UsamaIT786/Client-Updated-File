@@ -87,10 +87,14 @@ def start_ngrok():
                 # Update environment variable
                 os.environ['NGROK_URL'] = webhook_url
                 
-                # Update env_config dynamically
-                import env_config
-                env_config.NGROK_URL = webhook_url
+                # Update .env file to persist the ngrok URL
+                update_env_file('NGROK_URL', webhook_url)
                 
+                # Reload environment variables in all modules
+                import env_config
+                env_config.reload_env()
+                
+                logger.info(f"✅ Updated .env file and reloaded env_config with ngrok URL: {webhook_url}")
                 return webhook_url, ngrok_process
                 
     except Exception as e:
@@ -98,6 +102,72 @@ def start_ngrok():
         return None, ngrok_process
     
     return None, ngrok_process
+
+def update_env_file(key, value):
+    """Update a specific environment variable in the .env file"""
+    env_file_path = '.env'
+    
+    # Read existing .env file
+    lines = []
+    key_found = False
+    
+    try:
+        with open(env_file_path, 'r') as f:
+            lines = f.readlines()
+    except FileNotFoundError:
+        # If .env doesn't exist, we'll create it
+        pass
+    
+    # Update or add the key
+    updated_lines = []
+    for line in lines:
+        if line.strip().startswith(f'{key}='):
+            updated_lines.append(f'{key}={value}\n')
+            key_found = True
+        else:
+            updated_lines.append(line)
+    
+    # If key wasn't found, add it
+    if not key_found:
+        updated_lines.append(f'{key}={value}\n')
+    
+    # Write back to file
+    try:
+        with open(env_file_path, 'w') as f:
+            f.writelines(updated_lines)
+        logger.info(f"✅ Successfully updated {key} in .env file")
+    except Exception as e:
+        logger.error(f"Failed to update .env file: {str(e)}")
+
+def sync_existing_ngrok():
+    """Sync with existing ngrok tunnel if running"""
+    try:
+        response = requests.get('http://localhost:4040/api/tunnels')
+        tunnels = response.json()['tunnels']
+        
+        for tunnel in tunnels:
+            if tunnel['proto'] == 'https':
+                webhook_url = tunnel['public_url']
+                logger.info(f"Found existing ngrok URL: {webhook_url}")
+                
+                # Update environment variable
+                os.environ['NGROK_URL'] = webhook_url
+                
+                # Update .env file to persist the ngrok URL
+                update_env_file('NGROK_URL', webhook_url)
+                
+                # Reload environment variables in all modules
+                import env_config
+                env_config.reload_env()
+                
+                logger.info(f"✅ Synced with existing ngrok URL: {webhook_url}")
+                return webhook_url
+                
+    except Exception as e:
+        logger.debug(f"No existing ngrok tunnel found: {str(e)}")
+        return None
+    
+    return None
 
 def run_flask_server():
     """Run the Flask webhook server"""
@@ -119,6 +189,35 @@ def run_telegram_bot():
     logger.info("Starting Telegram bot...")
     bot_process = subprocess.Popen([sys.executable, 'telegram_bot.py'])
     bot_process.wait()
+
+def notify_services_url_change(new_url):
+    """Notify all services about ngrok URL change"""
+    try:
+        # Notify PayPal service about URL change
+        from paypal_integration import paypal_service
+        logger.info(f"📡 PayPal service will use updated URL: {new_url}")
+        
+        # You can add more service notifications here as needed
+        # For example, if you have other webhook endpoints or external services
+        
+    except ImportError:
+        logger.debug("PayPal service not imported yet")
+    except Exception as e:
+        logger.warning(f"Error notifying services about URL change: {str(e)}")
+
+def auto_sync_ngrok():
+    """Automatically sync with ngrok whether it's already running or needs to be started"""
+    logger.info("🌐 Auto-syncing with ngrok...")
+    
+    # First try to sync with existing ngrok
+    existing_url = sync_existing_ngrok()
+    if existing_url:
+        notify_services_url_change(existing_url)
+        return existing_url, None
+    
+    # If no existing ngrok, try to start it (for full mode)
+    logger.info("🌐 No existing ngrok found, will be handled by mode-specific logic")
+    return None, None
 
 def simple_mode():
     """Simple mode - just bot and data service"""
@@ -229,6 +328,10 @@ def main():
                         help='Run mode: simple (bot only) or full (with ngrok/webhooks)')
     
     args = parser.parse_args()
+    
+    # Always try to sync with ngrok on startup
+    logger.info("🚀 Starting Betting Analytics Bot...")
+    auto_sync_ngrok()
     
     if args.mode == 'simple':
         simple_mode()
