@@ -1,33 +1,10 @@
-# Telegram Bot
 python-telegram-bot==20.7
-
-# Database
-sqlalchemy==2.0.23
+Flask==3.0.0
+SQLAlchemy==2.0.23
 alembic==1.13.0
-pymongo==4.6.1
-
-# Database drivers (optional, for different databases)
-psycopg2-binary==2.9.7  # PostgreSQL support (optional)
-
-# API and Web
-requests==2.32.5
-flask==3.0.0
-Flask-Cors==4.0.1
-
-# PayPal Integration
 paypalrestsdk==1.13.1
-
-# Environment Variables
 python-dotenv==1.0.0
-
-# Date/Time Handling
-pytz==2023.3
-
-# System Monitoring
-psutil==7.0.0
-
-# Logging
+psycopg2-binary==2.9.10
 colorlog==6.8.0
-
-# JSON Handling
-ujson==5.9.0
+gunicorn==22.0.0
+greenlet==3.0.0
